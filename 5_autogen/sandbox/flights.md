@@ -1,28 +1,17 @@
-Flight Deals from JFK to LHR - June 2025:
+### Flight Deals from Buenos Aires to Rome - October 2025
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
+#### General Information:
+- **Cheapest one-way flight:** Starts at **$722**
+- **Direct flights:** Available with Aerolineas Argentinas, with up to **4 flights per week** on Tuesday, Thursday, Friday, and Sunday.
+- **Travel Time:** Approximately **14 hours 10 minutes** for direct flights.
 
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
+### Summary of Options:
+- **Aerolíneas Argentinas**
+  - **Departure:** Various days in October 2025
+  - **Duration:** 14 hours 10 minutes non-stop
+  - **Price:** Approximately **$722**
 
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
+- Other options are available but involve stops and differ significantly in pricing. No specific listing for one-way non-stop flights found for October 2025.
 
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
-
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
-
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+### Recommendation:
+While specific details for October 2025 were sparse, booking early may help secure better deals. Aerolineas Argentinas seems to be a reliable option with frequent flights.
